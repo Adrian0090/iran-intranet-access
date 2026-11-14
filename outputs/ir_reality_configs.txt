@@ -1,7 +1,12 @@
-# IR-exit + VLESS Reality (best DPI resistance) — 2026-11-14 10:46 UTC
-# 5 configs
+# IR-exit + VLESS Reality (best DPI resistance) — 2026-11-14 18:51 UTC
+# 10 configs
 vless://b1da2601-ff93-46d6-af87-04af3f541fde@5.180.181.113:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-19.userapi.com#@Shh_Proxy-New⁷
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?sni=www.bing.com&flow=xtls-rprx-vision&fp=qq&security=tls#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20vless-%20%2313
-vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&path=/&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&host=copy_Shode_az_Chanel0111Net&fp=chrome&spx=/&type=xhttp&sni=www.aparat.com&sid=2f567c6d#@MDvpnSEC
-vless://01d31e8f-5eb5-4f2f-bceb-addb87f107a3@mabix.dgtr.net:443?security=reality&encryption=none&pbk=hvgEwCWp__pO1IzyQfvz-whyQhBbj760XxZ6SxD9qDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=b101b6832ecf3eca#@v2ray_configs_pools
+vless://02156f38-8366-429c-8b60-0d8038cafe63@45.81.18.34:443?security=reality&encryption=none&pbk=ioufLXV7_DfXZ1oomDTaUMxdduFNWI-j4Ssa3QuME0Q&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=bcf760#@Vip_Security
 vless://27f1eba3-0d5f-47c3-8dfa-f734f3aeccdf@tun404.app9.ir:8023?encryption=none&security=reality&sni=speedtest.net&fp=chrome&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&sid=b7e45d3a65bfc319&type=tcp&headerType=none#@filembad
+vless://42a151f5-5c96-4f0b-8441-a54bc98ebf99@nsmartdns.ariprivateservice.ir:50269?encryption=none&security=reality&sni=iphone.amazon.com&fp=chrome&pbk=I1YxRI9iFq1YQSn6Vi4BElatg9T_iOlsLSCPbpPmTxU&sid=b0185b70&spx=/4fce4980150963d&type=xhttp&host=myket.ir&path=/assets&mode=stream-up&extra={
+vless://9517e5e2-c4e9-425d-9355-0a8a9cfbf330@18855ef9d987ecd0.web.vipercloud.ir:38780?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@meliproxyy
+vless://6bf83eb4-6e1a-49e7-b966-30de57239621@nl1.melkban24.ir:3102?security=none&encryption=mlkem768x25519plus.xorpub.0rtt.vttlu-JKxHijJDTOT5WyFwDkTKSIeXOqeZr6IRxyci0&host=Copy_Shode_az_Chanel0111Net&headerType=none&type=tcp&flow=xtls-rprx-vision#@sora1co
+vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@053fcbd4ab1babc2.web.vipercloud.ir:38780?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@meliproxyy
+vless://eea5b4b5-b734-4a57-8ba6-8060f79abc31@www.2freenet.ddns.info:443?mode=auto&path=/&security=reality&alpn=http/1.1&encryption=none&pbk=eRMo4lY1fy9WbBCnAi7DUSIexoMwuWHtHMJ46maYQB0&host=www.aparat.com&fp=chrome&spx=/download&type=xhttp&sni=www.aparat.com&sid=284f933fef3a62b6#@TEHRANARGO🍓-3
+vless://db4ee353-1baf-4b82-96ec-8aeab542b1a9@tv.samesung.tr:63004?encryption=none&security=reality&sni=cafebazaar.ir&fp=chrome&pbk=BuCrPaIpo_OcMnpGMeuTO2FwrsHYv3Jykfe8X9EVDRA&sid=66b19c2eafbdb05b&type=tcp&headerType=none#🇩🇪All³
+vless://c62717c3-93be-4c8f-8b32-4b2041431a0f@n.hubnetwatchdssub.ir:5013?encryption=none&security=reality&type=tcp&headerType=none&path=/assets&host=www.google.com&sni=play.google.com&fp=chrome&pbk=TLOt-FpoB3jtKQl4p8W3-iuRdGzSzYmlqjyHTNYpEkc&sid=cdaf792fe039c4c1#@VPsave
