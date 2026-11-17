@@ -1,18 +1,8 @@
-# IR-exit + VLESS Reality (best DPI resistance) — 2026-11-17 12:23 UTC
-# 16 configs
+# IR-exit + VLESS Reality (best DPI resistance) — 2026-11-17 21:53 UTC
+# 6 configs
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gembeforeshoping.space:443?security=reality&encryption=none&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gembeforeshoping.space#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶🛰️680🌐🆕
 vless://372931d3-91c5-4564-b79c-041302de9a17@94.183.179.64:443?sni=gb2.soshelper.space&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR%20%231
+vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?mode=gun&security=reality&encryption=none&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub#YFZ
 vless://b1da2601-ff93-46d6-af87-04af3f541fde@5.180.181.113:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-19.userapi.com#@Shh_Proxy-New⁷
-vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?encryption=none&fp=&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc#@VPNConnectd
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇩🇪
-vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&fp=chrome&type=xhttp&sni=www.aparat.com&sid=2f567c6d#@v2ray_configs_pools
 vless://02156f38-8366-429c-8b60-0d8038cafe63@45.81.18.34:443?security=reality&encryption=none&pbk=ioufLXV7_DfXZ1oomDTaUMxdduFNWI-j4Ssa3QuME0Q&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=bcf760#@Vip_Security
-vless://01d31e8f-5eb5-4f2f-bceb-addb87f107a3@mabix.dgtr.net:443?security=reality&encryption=none&pbk=hvgEwCWp__pO1IzyQfvz-whyQhBbj760XxZ6SxD9qDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=b101b6832ecf3eca#@v2ray_configs_pools
-vless://27f1eba3-0d5f-47c3-8dfa-f734f3aeccdf@tun404.app9.ir:8023?encryption=none&security=reality&sni=speedtest.net&fp=chrome&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&sid=b7e45d3a65bfc319&type=tcp&headerType=none#Channel
-vless://42a151f5-5c96-4f0b-8441-a54bc98ebf99@nsmartdns.ariprivateservice.ir:50269?mode=stream-up&path=/assets&security=reality&encryption=none&extra={
-vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@englandddtun.whooisthebest.ir:9632?encryption=none&security=reality&sni=aparat.com&fp=chrome&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&sid=e9b64ca7d55f2672&type=tcp&headerType=none#@filembad
-vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@78e7eeceeae8a446.web.vipercloud.ir:15100?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#@B2Hub
-vless://15f74cb4-612e-4c25-9a51-85de90b26ae9@mh2.appsnetwork.ir:322?encryption=none&security=reality&type=tcp&headerType=none&sni=mh4.appsnetwork.ir&fp=chrome&pbk=6dbNe07GIxtAin_3GVjTyXhXNkjN9H9JU2Pa6ar1k1k&sid=00d5a70000cb3eeb#@VPsave
-vless://9517e5e2-c4e9-425d-9355-0a8a9cfbf330@32a036a2066006da.web.vipercloud.ir:47291?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#🇪🇺
-vless://6a002409-fc42-4728-8aa7-ebd1c51325f4@ir.rokoi.ir:8456?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=s1.rokoi.ir&fp=chrome&pbk=ocgh26Ko-2nvlF-8PzA7T0hvH6l2zbqoygpJj6bf804&sid=337fb0078065ad72&spx=/#@VPsave
-vless://d2f44d90-8d3b-4ff1-a5a9-3b954331b580@www.2freenet.ddns.info:443?encryption=none&security=reality&sni=qa.aparat.com&fp=chrome&pbk=DX-SM1e4oi8M-CPdfvlJkSljL1KpldJ2Rrd0QwCTpXA&sid=284f933fef3a62b6&spx=/download&type=xhttp&host=qa.aparat.com&path=/&mode=auto#@VPsave
