@@ -1,17 +1,17 @@
 # Iranian-exit (≥2/3 GeoIP APIs confirmed) — websites will see you as in Iran
 # Recommended: majority vote across 3 independent GeoIP services.
 Use this if you need your exit IP to appear Iranian to external sites.
-# Generated: 2026-11-20 21:27 UTC | 10 configs
+# Generated: 2026-11-21 11:41 UTC | 10 configs
 #
 # NOT included: armenian_bridge configs — those show Armenian IPs to sites.
 
-vless://d2f44d90-8d3b-4ff1-a5a9-3b954331b580@www.2freenet.ddns.info:443?mode=auto&path=/&security=reality&encryption=none&pbk=eRMo4lY1fy9WbBCnAi7DUSIexoMwuWHtHMJ46maYQB0&host=www.aparat.com&fp=chrome&spx=/download&type=xhttp&sni=www.aparat.com&sid=284f933fef3a62b6#4.
-vless://78135704-67f9-4586-8ffd-d1fe541b3c6d@sevira.helpower.ir:9445?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&host=sevira.helpower.ir&sni=sevira.helpower.ir&fp=chrome&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#@VPsave
+vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&fp=chrome&type=xhttp&sni=www.aparat.com&sid=2f567c6d#@v2ray_configs_pools
 vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@englandddtun.whooisthebest.ir:9632?encryption=none&security=reality&type=tcp&sni=aparat.com&fp=chrome&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&sid=e9b64ca7d55f2672#REALITY|IR🇮🇷
-vless://a7f4c93a-98e1-4835-82f0-0571f8378d14@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2,http%2F1.1&encryption=none&insecure=1&host=hn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=hn.8lack.ir#@Vip_Security
+vless://6bf83eb4-6e1a-49e7-b966-30de57239621@nl1.melkban24.ir:3102?security=none&encryption=mlkem768x25519plus.xorpub.0rtt.vttlu-JKxHijJDTOT5WyFwDkTKSIeXOqeZr6IRxyci0&host=Copy_Shode_az_Chanel0111Net&headerType=none&type=tcp&flow=xtls-rprx-vision#@sora1co
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#@Vip_Security
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#@hopev2ray🤍
-vless://445a4c86-9cab-46d3-9d9e-ec7107be688b@185.208.174.236:80?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://a7f4c93a-98e1-4835-82f0-0571f8378d14@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2,http%2F1.1&encryption=none&insecure=1&host=hn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=hn.8lack.ir#@Vip_Security
+vless://01f93877-3307-4e73-ba4c-592d4489a9ea@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@Shh_Proxy-New⁴
 vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://21d557b8-36cd-4e5b-983f-e94e933001a3@tun.pannexo.ir:2053?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=tun2.pannexo.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tun2.pannexo.ir#IR🇮🇷
+vless://4727d627-3505-4b87-9b04-9e1ae0049720@dash.zeneco.ir:53231?security=none&encryption=mlkem768x25519plus.native.0rtt.BbeJhyjcSyRE6hWGA8ZXSkX-9JDpQ0KvWJCyjjiXgwM&host=dash.zeneco.ir&headerType=none&type=tcp#@VPsave
